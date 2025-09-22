@@ -22,13 +22,13 @@ I’m passionate about building impactful embedded and IoT systems from access c
 
 ## 📌 Featured Projects
 
-### 🔐 [ESP32 Access Control System](https://github.com/fmgold/Access-granting-IoT-Student-fingerprint)
+### 🔐 [Access Control System](https://github.com/oluwafemi-olabukoye/IoT-Access-Control-System)
 A two-factor access system with fingerprint + RFID, integrated with Firebase and SD card logging. Includes TFT UI, real-time RTC, and admin/user modes.
 
-### 💡 [Smart IoT Home Energy Monitor](https://github.com/fmgold/IoT-Based-Home-Automation)
+### 💡 [Smart IoT Home Energy Monitor](https://github.com/oluwafemi-olabukoye/IoT-Based-Home-Automation)
 Monitors voltage, current, and energy usage using PZEM-004T and ESP32. Features OLED display, Firebase logging, and power cut-off for overload protection.
 
-### 🗑️ [Smart Waste Bin System](https://github.com/fmgold/smart-wastebin)
+### 🗑️ [Smart Waste Bin System](https://github.com/oluwafemi-olabukoye/smart-wastebin)
 IoT-based waste bin with rotten level detection, fill monitoring, proximity sensing, and alert notifications via LED, buzzer, and push/email.
 
 ---

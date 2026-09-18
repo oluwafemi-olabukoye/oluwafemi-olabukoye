@@ -2,11 +2,14 @@
 
 ### Embedded Systems & IoT Engineer | Firmware | PCB Design | IIoT
 
-I design and develop **embedded systems, connected hardware, and Industrial IoT solutions** from circuit design and PCB development to firmware, communication protocols, cloud connectivity, testing, and field deployment.
+I design and develop **embedded systems, connected hardware, and Industrial IoT solutions** — from circuit design and PCB development to firmware, communication protocols, cloud connectivity, testing, and field deployment.
 
 My work focuses on building **reliable hardware and software systems that solve real-world problems beyond the prototype stage.**
 
+---
+
 ## 👨‍💻 About Me
+
 * 🎓 Computer Engineer — University of Ilorin
 * 🔧 Embedded Systems & Firmware Engineer
 * 📡 IoT / Industrial IoT Engineer
@@ -19,9 +22,20 @@ I enjoy working across the complete product lifecycle:
 
 **Concept → Architecture → Hardware → PCB → Firmware → Testing → Connectivity → Deployment**
 
+---
+
 # 🛠️ Technical Skills
 
 ## 🔌 Embedded Systems & Firmware
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003B57?style=for-the-badge\&logo=freertos\&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge\&logo=platformio\&logoColor=white)
 
 ### Microcontrollers & Platforms
 
@@ -62,6 +76,14 @@ I enjoy working across the complete product lifecycle:
 ---
 
 # 📡 Communication & IoT
+
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/HTTP%2FHTTPS-005571?style=for-the-badge)
+![RS485](https://img.shields.io/badge/RS485-1F2937?style=for-the-badge)
+![Modbus](https://img.shields.io/badge/Modbus-1F2937?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN%2FCAN--FD-1F2937?style=for-the-badge)
+![WiFi](https://img.shields.io/badge/Wi--Fi-1F2937?style=for-the-badge)
+![Bluetooth](https://img.shields.io/badge/Bluetooth%2FBLE-0082FC?style=for-the-badge\&logo=bluetooth\&logoColor=white)
 
 ### Wired Communication
 
@@ -106,6 +128,11 @@ I enjoy working across the complete product lifecycle:
 ---
 
 # 🧩 Hardware & PCB Design
+
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1769AA?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge\&logo=kicad\&logoColor=white)
+![PCB](https://img.shields.io/badge/PCB_Design-0F172A?style=for-the-badge)
+![PCBA](https://img.shields.io/badge/PCBA-0F172A?style=for-the-badge)
 
 ### Hardware Design
 
@@ -499,4 +526,3 @@ I'm open to collaborating on:
 ## ⚡ Building Connected Hardware for the Real World
 
 **Embedded Systems • Firmware • PCB • IoT • IIoT • Industrial Automation • Hardware Product Development**
-
